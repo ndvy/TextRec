@@ -1,0 +1,2 @@
+# TextRec
+Text Recognition APCS 
